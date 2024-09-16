@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="alex-code" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="alex-code">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/alex-code/portfolio-react/" local="$PROJECT_DIR$" web="/root/alex-code/portfolio-react/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
