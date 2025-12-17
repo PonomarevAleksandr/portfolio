@@ -6,11 +6,9 @@ import {TestimonialsSection} from "@/sections/Testimonials";
 import {AboutSection} from "@/sections/About";
 import {ContactSection} from "@/sections/Contact";
 import {Footer} from "@/sections/Footer";
-import YandexMetrika from "@/components/Yandex";
 export default function Home() {
   return (
     <div>
-        <YandexMetrika />
       <Header />
       <HeroSection />
       <ProjectsSection />
